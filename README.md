@@ -3,7 +3,7 @@
 
 **Burp Suite**
 
-1. [Burp Suite](https://portswigger.net/burp): The quintessential web app hacking tool. Once you hit 500 reputation on HackerOne, you are eligible for a free 3-month license of Burp Suite Pro! Check out these awesome Burp plugins:
+1. [Burp Suite](https://portswigger.net/burp): The quintessential web app hacking tool. Check out these awesome Burp plugins:
 
 2. [ActiveScan++](https://portswigger.net/bappstore/3123d5b5f25c4128894d97ea1acc4976): ActiveScan++ extends Burp Suite's active and passive scanning capabilities. Designed to add minimal network overhead, it identifies application behavior that may be of interest to advanced testers.
 
