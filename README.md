@@ -1,7 +1,7 @@
 # 100-hacking-tools
 100 Hacking Tools and Resources
 
-**Burp Suite**
+### **Burp Suite**
 
 1. [Burp Suite](https://portswigger.net/burp): The quintessential web app hacking tool. Check out these awesome Burp plugins:
 
@@ -25,7 +25,7 @@
 
 11. [JSON_Beautifier](https://portswigger.net/bappstore/309ef28d45ff4f19bedfed3896cb3ca9): This plugin provides a JSON tab with beautified representation of the request/response.
 
-**Web Hacking**
+### **Web Hacking**
 
 12. [JSParser](https://github.com/nahamsec/JSParser): A python 2.7 script using Tornado and JSBeautifier to parse relative URLs from JavaScript files. This is especially useful for discovering AJAX requests when performing security research or bug bounty hunting.
 
@@ -119,7 +119,7 @@
 
 57. [BBHT](https://github.com/nahamsec/bbht): Bug Bounty Hunting Tools is a script to install the most popular tools used while looking for vulnerabilities for a bug bounty program.
 
-**Mobile Hacking**
+### **Mobile Hacking**
 
 58. [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF): Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.
 
@@ -135,7 +135,7 @@
 
 64. [Frida](https://frida.re/): Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.
 
-**Exploitation**
+### **Exploitation**
 
 65. [SQLNinja](http://sqlninja.sourceforge.net/): Sqlninja is a tool targeted to exploit SQL Injection vulnerabilities on a web application that uses Microsoft SQL Server as its back-end.
 
@@ -153,7 +153,7 @@
 
 72. [Spiderfoot](https://github.com/smicallef/spiderfoot): SpiderFoot is an open source intelligence (OSINT) automation tool. It integrates with just about every data source available, and automates OSINT collection so that you can focus on data analysis.
 
-**Scanners/Frameworks**
+### **Scanners/Frameworks**
 
 73. [OpenVAS](https://www.openvas.org/): OpenVAS is a full-featured vulnerability scanner. Its capabilities include unauthenticated testing, authenticated testing, various high level and low-level Internet and industrial protocols, performance tuning for large-scale scans and a powerful internal programming language to implement any type of vulnerability test.
 
@@ -179,7 +179,7 @@
 
 84. [Nmap](https://nmap.org/): Nmap ("Network Mapper") is a free and open-source (license) utility for network discovery and security auditing.
 
-**Datasets / Freemium Services** 
+### **Datasets / Freemium Services** 
 
 85. [Shodan](https://www.shodan.io/): Shodan provides a public API that allows other tools to access all of Shodan's data. Integrations are available for Nmap, Metasploit, Maltego, FOCA, Chrome, Firefox and many more.
 
@@ -193,7 +193,7 @@
 
 90. [Payloads All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings): A list of useful payloads and bypasses for Web Application Security. Feel free to improve with your payloads and techniques. 
 
-**Miscellaneous Hacking Tools**
+### **Miscellaneous Hacking Tools**
 
 91. [Ettercap](https://www.ettercap-project.org/): Ettercap is a comprehensive suite which features sniffing of live connections, content filtering, and support for active and passive dissection of many protocols, including multiple features for network and host analysis.
 
