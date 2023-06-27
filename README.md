@@ -11,7 +11,7 @@
 
 4. [Autorepeater Burp](https://github.com/nccgroup/AutoRepeater): Automated HTTP request repeating with Burp Suite. 
 
-5. [Autorize](https://portswigger.net/bappstore/f9bbac8c4acf4aefa4d7dc92a991af2f) Burp: Autorize is an extension aimed at helping the penetration tester to detect authorization vulnerabilities—one of the more time-consuming tasks in a web application penetration test.
+5. [Autorize](https://portswigger.net/bappstore/f9bbac8c4acf4aefa4d7dc92a991af2f) Burp: Autorize is an extension aimed at helping the penetration testers to detect authorization vulnerabilities, one of the more time-consuming tasks in a web application penetration test.
 
 6. [Burp Beautifier](https://portswigger.net/bappstore/a005a6a8fba34a8893ec649f76a8d5a7): BurpBeautifier is a Burpsuite extension for beautifying request/response body, supporting JS, JSON, HTML, XML format, writing in Jython 2.7.
 
