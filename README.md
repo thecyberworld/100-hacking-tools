@@ -13,9 +13,9 @@
 
 5. [Autorize](https://portswigger.net/bappstore/f9bbac8c4acf4aefa4d7dc92a991af2f) Burp: Autorize is an extension aimed at helping the penetration testers to detect authorization vulnerabilities, one of the more time-consuming tasks in a web application penetration test.
 
-6. [Burp Beautifier](https://portswigger.net/bappstore/a005a6a8fba34a8893ec649f76a8d5a7): BurpBeautifier is a Burpsuite extension for beautifying request/response body, supporting JS, JSON, HTML, XML format, writing in Jython 2.7.
+6. [Burp Beautifier](https://portswigger.net/bappstore/a005a6a8fba34a8893ec649f76a8d5a7): BurpBeautifier is a Burpsuite extension for beautifying request/response body, supporting JS, JSON, HTML, XML format, writing in Jython 2.7.
 
-7. [Flow](https://portswigger.net/bappstore/ee1c45f4cc084304b2af4b7e92c0a49d): This extension provides a Proxy history-like view along with search filter capabilities for all Burp tools.
+7. [Flow](https://portswigger.net/bappstore/ee1c45f4cc084304b2af4b7e92c0a49d): This extension provides a Proxy history-like view along with search filter capabilities for all Burp tools.
 
 8. [Headless Burp](https://portswigger.net/bappstore/d54b11f7af3c4dfeb6b81fb5db72e381): This extension allows you to run Burp Suite's Spider and Scanner tools in headless mode via the command-line.
 
